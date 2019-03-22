@@ -21,5 +21,9 @@
     "webpack-dev-server": "^3.2.1",
     "webpack-glsl-loader": "^1.0.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "gl-matrix": "^3.0.0",
+    "webgl-debug": "^2.0.1",
+    "webgl-utils": "^1.0.1"
+  }
 }
